@@ -1,6 +1,6 @@
 Dataset **PST-RGB** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/J/p/6l/x4VxLI7GNRvwo9kMbGTl3AupM8t101uGkweNAFaZGJXtcJRhQvj6KYAysdISmzvExG5NdgQYsD19RaA0bSGuQdVvIDsDI6Dy6RoNLYYYJjszX3C7DOk8wgsOCCr2.tar)
+ [Download](https://www.dropbox.com/scl/fi/wpyi1acaaltr80wlaqvey/pst-rgb-DatasetNinja.tar?rlkey=ibrc5a86c2428wtlhg0r44ljc&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
